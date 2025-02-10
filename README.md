@@ -3,7 +3,7 @@
 ## Preliminary Steps
 
 1. Go to the MIRACL Trust Portal (https://trust.miracl.cloud) and create a project.
-2. On the General page, set Allowed CORS Origins to `http://127.0.0.1:9090`.
+2. On the General page, set Allowed CORS Origins to `http://localhost:9090`.
 3. On the User Verification page, set the Verification Method to `Email Code`.
 
 ## Set Up the Sample
@@ -38,4 +38,4 @@ Execute the following command to run the sample:
 npm start
 ```
 
-You can now visit `http://127.0.0.1:9090` to access the sample.
+You can now visit `http://localhost:9090` to access the sample.
